@@ -1,0 +1,25 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+.container{
+  background-color: plum;
+  padding: 20px;
+  margin: 20px;
+}
+#link{
+  background-color: rgb(192, 10, 71);
+  padding: 5px 10px;
+  border: 1px solid black;
+  color: black;
+  text-decoration: none;
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
