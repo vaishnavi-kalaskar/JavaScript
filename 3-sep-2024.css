@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 400vh;
+    padding: 100px;
+}
+.container{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(230, 112, 151);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#btn{
+    font-size: 25px;
+    padding: 5px 10px;
+}
